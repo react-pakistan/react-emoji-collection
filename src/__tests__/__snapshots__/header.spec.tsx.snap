@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Header component matches Header snapshot 1`] = `ReactWrapper {}`;

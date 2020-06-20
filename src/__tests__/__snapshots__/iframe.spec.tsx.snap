@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Iframe component matches Iframe snapshot 1`] = `ReactWrapper {}`;

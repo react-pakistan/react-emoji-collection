@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Select component matches Select snapshot 1`] = `ReactWrapper {}`;
+
+exports[`Testing Select component matches SelectWithFieldLabel snapshot 1`] = `ReactWrapper {}`;

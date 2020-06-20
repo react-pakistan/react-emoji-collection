@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing RowContainer component matches RowContainer snapshot 1`] = `ReactWrapper {}`;

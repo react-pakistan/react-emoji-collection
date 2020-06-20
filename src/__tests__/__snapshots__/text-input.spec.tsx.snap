@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing TextInput component matches TextInput snapshot 1`] = `ReactWrapper {}`;
+
+exports[`Testing TextInput component matches TextInputWithFieldLabel snapshot 1`] = `ReactWrapper {}`;

@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing TextArea component matches TextArea snapshot 1`] = `ReactWrapper {}`;
+
+exports[`Testing TextArea component matches TextAreaWithFieldLabel snapshot 1`] = `ReactWrapper {}`;

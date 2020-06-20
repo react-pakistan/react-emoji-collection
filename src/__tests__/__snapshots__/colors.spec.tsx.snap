@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Colors component matches Colors snapshot 1`] = `ReactWrapper {}`;
