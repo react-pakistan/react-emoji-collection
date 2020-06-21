@@ -6,3 +6,11 @@ svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js 
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/activities/event --ext tsx assets/activities/event
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/activities/game --ext tsx assets/activities/game
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/activities/sport --ext tsx assets/activities/sport
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/animals-nature/animal-amphibian --ext tsx assets/animals-nature/animal-amphibian
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/animals-nature/animal-bird --ext tsx assets/animals-nature/animal-bird
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/animals-nature/animal-bug --ext tsx assets/animals-nature/animal-bug
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/animals-nature/animal-mammal --ext tsx assets/animals-nature/animal-mammal
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/animals-nature/animal-marine --ext tsx assets/animals-nature/animal-marine
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/animals-nature/animal-reptile --ext tsx assets/animals-nature/animal-reptile
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/animals-nature/plant-flower --ext tsx assets/animals-nature/plant-flower
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/animals-nature/plant-other --ext tsx assets/animals-nature/plant-other

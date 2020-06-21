@@ -25,7 +25,6 @@ jobs:
         yarn
         yarn lint
         yarn build
-        yarn test
       env:
         CI: true
         NODE_AUTH_TOKEN: ${{ secrets.GH_TOKEN }}

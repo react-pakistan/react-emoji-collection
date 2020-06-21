@@ -38,8 +38,10 @@ export const EMOJI_LIST = [
       });
       emojiListOutput += `];
   `;
-     
-       fs.writeFileSync(`./src/__stories__/${fileName}/${level1FileName}.ts`, emojiListOutput);
+      if (!fs.existsSync(`./src/__stories__/${fileName}`)) {
+        fs.mkdirSync(`./src/__stories__/${fileName}`);
+      }
+      fs.writeFileSync(`./src/__stories__/${fileName}/${level1FileName}.ts`, emojiListOutput);
     });
   });
 };
