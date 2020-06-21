@@ -1,0 +1,8 @@
+export { default as FaceNegative1 } from './FaceNegative1'
+export { default as FaceNegative2 } from './FaceNegative2'
+export { default as FaceNegative3 } from './FaceNegative3'
+export { default as FaceNegative4 } from './FaceNegative4'
+export { default as FaceNegative5 } from './FaceNegative5'
+export { default as FaceNegative6 } from './FaceNegative6'
+export { default as FaceNegative7 } from './FaceNegative7'
+export { default as FaceNegative8 } from './FaceNegative8'

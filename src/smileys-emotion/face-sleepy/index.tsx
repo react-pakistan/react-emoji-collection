@@ -1,0 +1,5 @@
+export { default as FaceSleepy1 } from './FaceSleepy1'
+export { default as FaceSleepy2 } from './FaceSleepy2'
+export { default as FaceSleepy3 } from './FaceSleepy3'
+export { default as FaceSleepy4 } from './FaceSleepy4'
+export { default as FaceSleepy5 } from './FaceSleepy5'
