@@ -1,0 +1,7 @@
+export { default as FoodDrink1 } from './FoodDrink1'
+export { default as FoodDrink2 } from './FoodDrink2'
+export { default as FoodDrink3 } from './FoodDrink3'
+export { default as FoodDrink4 } from './FoodDrink4'
+export { default as FoodDrink5 } from './FoodDrink5'
+export { default as FoodDrink6 } from './FoodDrink6'
+export { default as FoodDrink7 } from './FoodDrink7'
