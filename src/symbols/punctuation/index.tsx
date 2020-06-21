@@ -1,0 +1,7 @@
+export { default as Punctuation1 } from './Punctuation1'
+export { default as Punctuation2 } from './Punctuation2'
+export { default as Punctuation3 } from './Punctuation3'
+export { default as Punctuation4 } from './Punctuation4'
+export { default as Punctuation5 } from './Punctuation5'
+export { default as Punctuation6 } from './Punctuation6'
+export { default as Punctuation7 } from './Punctuation7'

@@ -87,3 +87,17 @@ svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js 
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/smileys-emotion/face-tongue --ext tsx assets/smileys-emotion/face-tongue
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/smileys-emotion/face-unwell --ext tsx assets/smileys-emotion/face-unwell
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/smileys-emotion/monkey-face --ext tsx assets/smileys-emotion/monkey-face
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/alphanum --ext tsx assets/symbols/alphanum
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/arrow --ext tsx assets/symbols/arrow
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/av-symbol --ext tsx assets/symbols/av-symbol
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/currency --ext tsx assets/symbols/currency
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/gender --ext tsx assets/symbols/gender
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/geometric --ext tsx assets/symbols/geometric
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/keycap --ext tsx assets/symbols/keycap
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/math --ext tsx assets/symbols/math
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/other-symbol --ext tsx assets/symbols/other-symbol
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/punctuation --ext tsx assets/symbols/punctuation
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/religion --ext tsx assets/symbols/religion
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/transport-sign --ext tsx assets/symbols/transport-sign
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/warning --ext tsx assets/symbols/warning
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/zodiac --ext tsx assets/symbols/zodiac
