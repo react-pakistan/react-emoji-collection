@@ -1,0 +1,6 @@
+export { default as Dishware1 } from './Dishware1'
+export { default as Dishware2 } from './Dishware2'
+export { default as Dishware3 } from './Dishware3'
+export { default as Dishware4 } from './Dishware4'
+export { default as Dishware5 } from './Dishware5'
+export { default as Dishware6 } from './Dishware6'

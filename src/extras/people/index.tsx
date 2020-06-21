@@ -1,0 +1,8 @@
+export { default as People1 } from './People1'
+export { default as People2 } from './People2'
+export { default as People3 } from './People3'
+export { default as People4 } from './People4'
+export { default as People5 } from './People5'
+export { default as People6 } from './People6'
+export { default as People7 } from './People7'
+export { default as People8 } from './People8'
