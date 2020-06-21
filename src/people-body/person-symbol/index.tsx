@@ -1,0 +1,5 @@
+export { default as PersonSymbol1 } from './PersonSymbol1'
+export { default as PersonSymbol2 } from './PersonSymbol2'
+export { default as PersonSymbol3 } from './PersonSymbol3'
+export { default as PersonSymbol4 } from './PersonSymbol4'
+export { default as PersonSymbol5 } from './PersonSymbol5'
