@@ -1,0 +1,6 @@
+export { default as OtherObject1 } from './OtherObject1'
+export { default as OtherObject2 } from './OtherObject2'
+export { default as OtherObject3 } from './OtherObject3'
+export { default as OtherObject4 } from './OtherObject4'
+export { default as OtherObject5 } from './OtherObject5'
+export { default as OtherObject6 } from './OtherObject6'

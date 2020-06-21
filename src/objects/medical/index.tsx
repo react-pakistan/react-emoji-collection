@@ -1,0 +1,5 @@
+export { default as Medical1 } from './Medical1'
+export { default as Medical2 } from './Medical2'
+export { default as Medical3 } from './Medical3'
+export { default as Medical4 } from './Medical4'
+export { default as Medical5 } from './Medical5'

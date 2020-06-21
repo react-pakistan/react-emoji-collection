@@ -1,0 +1,6 @@
+export { default as Phone1 } from './Phone1'
+export { default as Phone2 } from './Phone2'
+export { default as Phone3 } from './Phone3'
+export { default as Phone4 } from './Phone4'
+export { default as Phone5 } from './Phone5'
+export { default as Phone6 } from './Phone6'
