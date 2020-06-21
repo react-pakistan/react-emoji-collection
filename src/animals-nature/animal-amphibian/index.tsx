@@ -1,0 +1,1 @@
+export { default as AnimalAmphibian1 } from './AnimalAmphibian1'

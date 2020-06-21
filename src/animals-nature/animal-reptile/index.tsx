@@ -1,0 +1,8 @@
+export { default as AnimalReptile1 } from './AnimalReptile1'
+export { default as AnimalReptile2 } from './AnimalReptile2'
+export { default as AnimalReptile3 } from './AnimalReptile3'
+export { default as AnimalReptile4 } from './AnimalReptile4'
+export { default as AnimalReptile5 } from './AnimalReptile5'
+export { default as AnimalReptile6 } from './AnimalReptile6'
+export { default as AnimalReptile7 } from './AnimalReptile7'
+export { default as AnimalReptile8 } from './AnimalReptile8'

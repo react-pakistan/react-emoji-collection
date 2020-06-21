@@ -7,3 +7,4 @@ lib/
 mongodump/
 node_modules/
 src/types/
+scripts/
