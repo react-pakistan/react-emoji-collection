@@ -1,0 +1,5 @@
+export { default as Math1 } from './Math1'
+export { default as Math2 } from './Math2'
+export { default as Math3 } from './Math3'
+export { default as Math4 } from './Math4'
+export { default as Math5 } from './Math5'
