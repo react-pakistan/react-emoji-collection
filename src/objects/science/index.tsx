@@ -1,0 +1,7 @@
+export { default as Science1 } from './Science1'
+export { default as Science2 } from './Science2'
+export { default as Science3 } from './Science3'
+export { default as Science4 } from './Science4'
+export { default as Science5 } from './Science5'
+export { default as Science6 } from './Science6'
+export { default as Science7 } from './Science7'

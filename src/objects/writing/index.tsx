@@ -1,0 +1,7 @@
+export { default as Writing1 } from './Writing1'
+export { default as Writing2 } from './Writing2'
+export { default as Writing3 } from './Writing3'
+export { default as Writing4 } from './Writing4'
+export { default as Writing5 } from './Writing5'
+export { default as Writing6 } from './Writing6'
+export { default as Writing7 } from './Writing7'

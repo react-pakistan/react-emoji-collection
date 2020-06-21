@@ -1,0 +1,8 @@
+export { default as MusicalInstrument1 } from './MusicalInstrument1'
+export { default as MusicalInstrument2 } from './MusicalInstrument2'
+export { default as MusicalInstrument3 } from './MusicalInstrument3'
+export { default as MusicalInstrument4 } from './MusicalInstrument4'
+export { default as MusicalInstrument5 } from './MusicalInstrument5'
+export { default as MusicalInstrument6 } from './MusicalInstrument6'
+export { default as MusicalInstrument7 } from './MusicalInstrument7'
+export { default as MusicalInstrument8 } from './MusicalInstrument8'
