@@ -1,0 +1,5 @@
+export { default as FoodMarine1 } from './FoodMarine1'
+export { default as FoodMarine2 } from './FoodMarine2'
+export { default as FoodMarine3 } from './FoodMarine3'
+export { default as FoodMarine4 } from './FoodMarine4'
+export { default as FoodMarine5 } from './FoodMarine5'

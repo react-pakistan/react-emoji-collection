@@ -30,3 +30,11 @@ svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js 
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/extras/technology --ext tsx assets/extras/technology
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/extras/travel-places --ext tsx assets/extras/travel-places
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/extras/ui-element --ext tsx assets/extras/ui-element
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/food-drink/dishware --ext tsx assets/food-drink/dishware
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/food-drink/drink --ext tsx assets/food-drink/drink
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/food-drink/food-asian --ext tsx assets/food-drink/food-asian
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/food-drink/food-fruit --ext tsx assets/food-drink/food-fruit
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/food-drink/food-marine --ext tsx assets/food-drink/food-marine
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/food-drink/food-prepared --ext tsx assets/food-drink/food-prepared
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/food-drink/food-sweet --ext tsx assets/food-drink/food-sweet
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/food-drink/food-vegetable --ext tsx assets/food-drink/food-vegetable
