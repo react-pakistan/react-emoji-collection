@@ -8,7 +8,6 @@ import customTheme from "./customTheme";
 /* Decorators configuration */
 addDecorator(withKnobs);
 addDecorator(withA11y);
-addDecorator(withScreenshot);
 addDecorator(withInfo({
   header: false,
   text: "React Pakistan - React Emoji Collection",
