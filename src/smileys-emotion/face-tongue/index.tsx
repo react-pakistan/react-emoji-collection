@@ -1,0 +1,6 @@
+export { default as FaceTongue1 } from './FaceTongue1'
+export { default as FaceTongue2 } from './FaceTongue2'
+export { default as FaceTongue3 } from './FaceTongue3'
+export { default as FaceTongue4 } from './FaceTongue4'
+export { default as FaceTongue5 } from './FaceTongue5'
+export { default as FaceTongue6 } from './FaceTongue6'

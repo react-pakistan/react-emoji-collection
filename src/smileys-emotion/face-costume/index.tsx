@@ -1,0 +1,8 @@
+export { default as FaceCostume1 } from './FaceCostume1'
+export { default as FaceCostume2 } from './FaceCostume2'
+export { default as FaceCostume3 } from './FaceCostume3'
+export { default as FaceCostume4 } from './FaceCostume4'
+export { default as FaceCostume5 } from './FaceCostume5'
+export { default as FaceCostume6 } from './FaceCostume6'
+export { default as FaceCostume7 } from './FaceCostume7'
+export { default as FaceCostume8 } from './FaceCostume8'
