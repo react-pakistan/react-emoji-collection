@@ -77,11 +77,11 @@ You could either use the default theme as shown below or wire your custom theme 
 
 ### **Use**
 
-- [Hands1](https://taimoormk.github.io/react-emoji-collection/?path=/story/people-body--hands)
+- [SvgHands1](https://taimoormk.github.io/react-emoji-collection/?path=/story/people-body--hands)
 ```javascript
-  import { Hands1 } from '@react-pakistan/react-emoji-collection/people-body/hands';
+  import { SvgHands1 } from '@react-pakistan/react-emoji-collection/people-body/hands';
 
-  <Hands1
+  <SvgHands1
     fontSize="32px"
     color="#2E2E2E"
   />
