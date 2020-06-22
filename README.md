@@ -35,17 +35,17 @@ React Pakistan is an OpenSource & Free Software (FOSS) platform, creating React 
     target="_blank"
   >
     <img
-      alt="React Pakistan - React Logo Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1567499957/GitHub/react-logo-collection.jpg"
+      alt="React Pakistan - React Emoji Collection"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1592815676/GitHub/react-emoji-collection.jpg"
       width="70%"
     />
   </a>
   <a
-    href="https://www.npmjs.com/package/@react-pakistan/react-logo-collection"
+    href="https://www.npmjs.com/package/@react-pakistan/react-emoji-collection"
     target="_blank"
   >
     <img
-      alt="React Pakistan - React Logo Collection - NPM Package"
+      alt="React Pakistan - React Emoji Collection - NPM Package"
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
       width="20%"
     />
