@@ -1,6 +1,6 @@
 import React, { ReactElement } from 'react';
 import { EmojiWrapper, EmojiTextWrapper, EmojiItem } from '../../styled';
-import { EMOJI_LIST } from './person-resting';
+import { EMOJI_LIST } from './person-gesture';
 
 const emojiStyle = { width: '7rem', height: '7rem' };
 
@@ -22,16 +22,16 @@ const renderItem = (
 
 const emojis = EMOJI_LIST.map(renderItem);
 
-export const PersonResting = () : ReactElement => (
+export const PersonGesture = () : ReactElement => (
   <EmojiWrapper>
     {emojis}
   </EmojiWrapper>
 );
 
 export default {
-  title: 'PeopleBody|PersonResting',
+  title: 'PeopleBody|PersonGesture',
 
   parameters: {
-    component: PersonResting,
+    component: PersonGesture,
   },
 };
