@@ -1,4 +1,5 @@
 const fs = require('fs');
+const storyTemplate = require('./story-template');
 
 const generate = () => {
   const emojiDir = './assets/';
@@ -40,7 +41,11 @@ export const EMOJI_LIST = [
       if (!fs.existsSync(`${saveDir}${fileName}`)) {
         fs.mkdirSync(`${saveDir}${fileName}`);
       }
+      const mainCategoryName = fileName.split('-').map(str => str[0].toUpperCase() + str.slice(1)).join('');
+      const subCategoryName = level1FileName.split('-').map(str => str[0].toUpperCase() + str.slice(1)).join('');
+      const story = storyTemplate(mainCategoryName, subCategoryName, level1FileName);
       fs.writeFileSync(`${saveDir}${fileName}/${level1FileName}.ts`, emojiListOutput);
+      fs.writeFileSync(`${saveDir}${fileName}/${level1FileName}.story.tsx`, story);
     });
   });
 };

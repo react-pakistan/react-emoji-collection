@@ -1,0 +1,6 @@
+export { default as PlaceReligious1 } from './PlaceReligious1'
+export { default as PlaceReligious2 } from './PlaceReligious2'
+export { default as PlaceReligious3 } from './PlaceReligious3'
+export { default as PlaceReligious4 } from './PlaceReligious4'
+export { default as PlaceReligious5 } from './PlaceReligious5'
+export { default as PlaceReligious6 } from './PlaceReligious6'
