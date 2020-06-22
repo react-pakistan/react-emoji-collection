@@ -101,3 +101,14 @@ svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js 
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/transport-sign --ext tsx assets/symbols/transport-sign
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/warning --ext tsx assets/symbols/warning
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/symbols/zodiac --ext tsx assets/symbols/zodiac
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/travel-places/hotel --ext tsx assets/travel-places/hotel
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/travel-places/place-building --ext tsx assets/travel-places/place-building
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/travel-places/place-geographic --ext tsx assets/travel-places/place-geographic
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/travel-places/place-map --ext tsx assets/travel-places/place-map
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/travel-places/place-other --ext tsx assets/travel-places/place-other
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/travel-places/place-religious --ext tsx assets/travel-places/place-religious
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/travel-places/sky-weather --ext tsx assets/travel-places/sky-weather
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/travel-places/time --ext tsx assets/travel-places/time
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/travel-places/transport-air --ext tsx assets/travel-places/transport-air
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/travel-places/transport-ground --ext tsx assets/travel-places/transport-ground
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/travel-places/transport-water --ext tsx assets/travel-places/transport-water
