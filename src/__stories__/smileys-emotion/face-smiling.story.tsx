@@ -1,6 +1,6 @@
 import React, { ReactElement } from 'react';
 import { EmojiWrapper, EmojiTextWrapper, EmojiItem } from '../../styled';
-import { EMOJI_LIST } from './face-negative';
+import { EMOJI_LIST } from './face-smiling';
 
 const emojiStyle = { width: '7rem', height: '7rem' };
 
@@ -22,16 +22,16 @@ const renderItem = (
 
 const emojis = EMOJI_LIST.map(renderItem);
 
-export const FaceNegative = () : ReactElement => (
+export const FaceSmiling = () : ReactElement => (
   <EmojiWrapper>
     {emojis}
   </EmojiWrapper>
 );
 
 export default {
-  title: 'PeopleBody|FaceNegative',
+  title: 'PeopleBody|FaceSmiling',
 
   parameters: {
-    component: FaceNegative,
+    component: FaceSmiling,
   },
 };

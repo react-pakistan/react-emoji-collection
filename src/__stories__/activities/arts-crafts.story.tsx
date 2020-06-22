@@ -1,46 +1,37 @@
-import * as React from 'react';
-import { storiesOf } from '@storybook/react';
-
+import React, { ReactElement } from 'react';
+import { EmojiWrapper, EmojiTextWrapper, EmojiItem } from '../../styled';
 import { EMOJI_LIST } from './arts-crafts';
 
 const emojiStyle = { width: '7rem', height: '7rem' };
 
 const renderItem = (
-  item : { emoji : React.SFC<React.SVGProps<SVGSVGElement>>, name : string },
-  index : number
-) => {
+  item : { emoji : React.SFC<React.SVGProps<SVGSVGElement>> , name : string }
+) : ReactElement => {
   const Emoji = item.emoji;
   return (
-    <div
-      key={index}
-      style={{
-        display: 'flex',
-        flexDirection: 'column',
-        alignItems: 'center',
-        justifyContent: 'center',
-        width: '10rem',
-        height: '10rem',
-      }}
-      title={item.name}
+    <EmojiItem
+      key={item.name}
     >
       <Emoji style={emojiStyle} />
-      <div style={{ fontSize: '0.75rem', marginTop: '0.75rem' }}>
+      <EmojiTextWrapper>
         {item.name}
-      </div>
-    </div>
+      </EmojiTextWrapper>
+    </EmojiItem>
   );
 };
 
-const commonIcons = EMOJI_LIST.map(renderItem);
+const emojis = EMOJI_LIST.map(renderItem);
 
-export const AllEmojis = () : React.ReactElement => (
-  <div>
-    <div style={{ display: 'flex', flexWrap: 'wrap' }}>
-      {commonIcons}
-    </div>
-  </div>
+export const ArtsCrafts = () : ReactElement => (
+  <EmojiWrapper>
+    {emojis}
+  </EmojiWrapper>
 );
 
-const stories = storiesOf('Activities', module);
+export default {
+  title: 'Activities|ArtsCrafts',
 
-stories.add('ArtsCrafts', () => <AllEmojis />);
+  parameters: {
+    component: ArtsCrafts,
+  },
+};
