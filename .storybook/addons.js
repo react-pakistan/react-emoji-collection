@@ -8,4 +8,4 @@ import "@storybook/addon-a11y/register";
 import "@storybook/addon-links/register";
 import "./google-analytics/register";
 
-window.STORYBOOK_GA_ID = "UA-145600298-1";
+window.STORYBOOK_GA_ID = "UA-170216861-1";

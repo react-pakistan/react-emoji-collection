@@ -72,7 +72,7 @@
     "@storybook/storybook-deployer": "^2.8.6",
     "@svgr/cli": "^5.4.0",
     "@svgr/webpack": "^5.4.0",
-    "@taimoormk/eslint-config-shared": "^1.0.12",
+    "@taimoormk/eslint-config-shared": "^1.0.17",
     "@taimoormk/react-commons-collection": "^1.1.9",
     "@taimoormk/util-functions": "^1.0.18",
     "@types/enzyme": "^3.10.5",
