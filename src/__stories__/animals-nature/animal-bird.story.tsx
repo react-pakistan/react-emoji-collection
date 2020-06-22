@@ -1,6 +1,6 @@
 import React, { ReactElement } from 'react';
 import { EmojiWrapper, EmojiTextWrapper, EmojiItem } from '../../styled';
-import { EMOJI_LIST } from './animal-reptile';
+import { EMOJI_LIST } from './animal-bird';
 
 const emojiStyle = { width: '7rem', height: '7rem' };
 
@@ -22,16 +22,16 @@ const renderItem = (
 
 const emojis = EMOJI_LIST.map(renderItem);
 
-export const AnimalReptile = () : ReactElement => (
+export const AnimalBird = () : ReactElement => (
   <EmojiWrapper>
     {emojis}
   </EmojiWrapper>
 );
 
 export default {
-  title: 'Activities|AnimalReptile',
+  title: 'Activities|AnimalBird',
 
   parameters: {
-    component: AnimalReptile,
+    component: AnimalBird,
   },
 };
