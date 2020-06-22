@@ -6,7 +6,7 @@
     target="_blank"
   >
     <img
-      alt="React Pakistan - React Logo Collection"
+      alt="React Pakistan - React Emoji Collection"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1565548545/GitHub/React_Pakistan_Storybook_Logo.jpg"
       width="70%"
     />
@@ -16,7 +16,7 @@
     target="_blank"
   >
     <img
-      alt="Taimoor Khan - React Logo Collection Author"
+      alt="Taimoor Khan - React Emoji Collection Author"
       src="https://avatars1.githubusercontent.com/u/27800340?s=460&v=4"
       width="20%"
     />
