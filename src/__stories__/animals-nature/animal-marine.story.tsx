@@ -29,7 +29,7 @@ export const AnimalMarine = () : ReactElement => (
 );
 
 export default {
-  title: 'Activities|AnimalMarine',
+  title: 'AnimalsNature|AnimalMarine',
 
   parameters: {
     component: AnimalMarine,

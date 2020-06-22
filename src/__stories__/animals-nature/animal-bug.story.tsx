@@ -29,7 +29,7 @@ export const AnimalBug = () : ReactElement => (
 );
 
 export default {
-  title: 'Activities|AnimalBug',
+  title: 'AnimalsNature|AnimalBug',
 
   parameters: {
     component: AnimalBug,

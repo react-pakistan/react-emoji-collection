@@ -29,7 +29,7 @@ export const PlantFlower = () : ReactElement => (
 );
 
 export default {
-  title: 'Activities|PlantFlower',
+  title: 'AnimalsNature|PlantFlower',
 
   parameters: {
     component: PlantFlower,

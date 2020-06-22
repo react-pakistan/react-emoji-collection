@@ -29,7 +29,7 @@ export const PlantOther = () : ReactElement => (
 );
 
 export default {
-  title: 'Activities|PlantOther',
+  title: 'AnimalsNature|PlantOther',
 
   parameters: {
     component: PlantOther,
