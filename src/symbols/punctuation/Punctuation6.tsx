@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IEmojiProps } from "../../styled";
 
-const SvgPunctuation6 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgPunctuation6 = (props: IEmojiProps) => (
   <svg viewBox="0 0 72 72" width="1em" height="1em" {...props}>
     <g fill="#D22F27">
       <circle cx={36.093} cy={58.842} r={3} />

@@ -6,7 +6,8 @@ function template(
   const typeScriptTpl = template.smart({ plugins: ['jsx','typescript'] });
   return typeScriptTpl.ast`
     import * as React from 'react';
-    const ${componentName} = (props: React.SVGProps<SVGSVGElement>) => ${jsx};
+    import { IEmojiProps } from '../../styled';
+    const ${componentName} = (props: IEmojiProps) => ${jsx};
     export default ${componentName};
   `;
 }

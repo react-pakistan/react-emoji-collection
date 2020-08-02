@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IEmojiProps } from "../../styled";
 
-const SvgPlaceOther9 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgPlaceOther9 = (props: IEmojiProps) => (
   <svg viewBox="0 0 72 72" width="1em" height="1em" {...props}>
     <path fill="#61b2e4" d="M4 47.292h64v20.787H4z" />
     <path fill="#e27022" d="M4 4.079h64v43.213H4z" />

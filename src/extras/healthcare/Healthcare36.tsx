@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IEmojiProps } from "../../styled";
 
-const SvgHealthcare36 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgHealthcare36 = (props: IEmojiProps) => (
   <svg viewBox="0 0 72 72" width="1em" height="1em" {...props}>
     <ellipse cx={28.507} cy={43.726} rx={11.468} ry={11.274} fill="#D0CFCE" />
     <ellipse cx={28.507} cy={44.082} rx={6.843} ry={6.727} fill="#9B9B9A" />

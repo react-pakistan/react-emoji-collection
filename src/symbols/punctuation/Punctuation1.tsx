@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IEmojiProps } from "../../styled";
 
-const SvgPunctuation1 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgPunctuation1 = (props: IEmojiProps) => (
   <svg viewBox="0 0 72 72" width="1em" height="1em" {...props}>
     <g fill="#d22f27">
       <ellipse cx={26.669} cy={59.435} rx={3} ry={3.023} />

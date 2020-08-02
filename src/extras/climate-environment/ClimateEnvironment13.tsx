@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IEmojiProps } from "../../styled";
 
-const SvgClimateEnvironment13 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgClimateEnvironment13 = (props: IEmojiProps) => (
   <svg viewBox="0 0 72 72" width="1em" height="1em" {...props}>
     <path fill="#92d3f5" d="M16 36h19l16 20H31L16 36z" />
     <circle cx={48} cy={24} r={8} fill="#fcea2b" />

@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IEmojiProps } from "../../styled";
 
-const SvgAnimalBug6 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgAnimalBug6 = (props: IEmojiProps) => (
   <svg viewBox="0 0 72 72" width="1em" height="1em" {...props}>
     <ellipse cx={36.096} cy={23.559} rx={9.53} ry={9.165} fill="#FFF" />
     <ellipse cx={36.119} cy={39.892} rx={14.59} ry={15.877} fill="#D22F27" />

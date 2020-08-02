@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IEmojiProps } from "../../styled";
 
-const SvgReligion7 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgReligion7 = (props: IEmojiProps) => (
   <svg viewBox="0 0 72 72" width="1em" height="1em" {...props}>
     <circle cx={36} cy={36.883} r={25} fill="#FFF" />
     <path

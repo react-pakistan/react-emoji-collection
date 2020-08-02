@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IEmojiProps } from "../../styled";
 
-const SvgTransportAir9 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgTransportAir9 = (props: IEmojiProps) => (
   <svg viewBox="0 0 72 72" width="1em" height="1em" {...props}>
     <g strokeLinejoin="round">
       <path fill="#fcea2b" stroke="#fcea2b" d="M13.5 28.5h43v24h-43z" />
