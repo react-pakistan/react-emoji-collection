@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IEmojiProps } from "../../styled";
 
-const SvgFoodFruit14 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgFoodFruit14 = (props: IEmojiProps) => (
   <svg viewBox="0 0 72 72" width="1em" height="1em" {...props}>
     <g strokeLinejoin="round" strokeMiterlimit={10} strokeWidth={2}>
       <path

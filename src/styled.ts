@@ -1,3 +1,4 @@
+import { SVGProps } from 'react';
 import styled from 'styled-components';
 
 export const EmojiWrapper = styled.div`
@@ -18,3 +19,10 @@ export const EmojiItem = styled.div`
   justify-content: center;
   width: 10em;
 `;
+
+export interface IEmojiProps extends SVGProps<SVGSVGElement> {
+  style : {
+    height : string;
+    width : string;
+  }
+}

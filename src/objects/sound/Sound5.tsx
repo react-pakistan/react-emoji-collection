@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IEmojiProps } from "../../styled";
 
-const SvgSound5 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgSound5 = (props: IEmojiProps) => (
   <svg viewBox="0 0 72 72" width="1em" height="1em" {...props}>
     <g strokeMiterlimit={10}>
       <path

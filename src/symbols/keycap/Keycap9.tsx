@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IEmojiProps } from "../../styled";
 
-const SvgKeycap9 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgKeycap9 = (props: IEmojiProps) => (
   <svg viewBox="0 0 72 72" width="1em" height="1em" {...props}>
     <path fill="#d0cfce" d="M11.75 12.166h48V60h-48z" />
     <g

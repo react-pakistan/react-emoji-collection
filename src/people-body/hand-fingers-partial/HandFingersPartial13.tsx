@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IEmojiProps } from "../../styled";
 
-const SvgHandFingersPartial13 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgHandFingersPartial13 = (props: IEmojiProps) => (
   <svg viewBox="0 0 72 72" width="1em" height="1em" {...props}>
     <g fill="#fadcbc" stroke="#fadcbc">
       <path d="M21.662 43.963a3.786 3.786 0 01-3.5-4v-7a3.531 3.531 0 117 0v7a3.786 3.786 0 01-3.5 4z" />

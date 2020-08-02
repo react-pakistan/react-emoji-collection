@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IEmojiProps } from "../../styled";
 
-const SvgSkyWeather3 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgSkyWeather3 = (props: IEmojiProps) => (
   <svg viewBox="0 0 72 72" width="1em" height="1em" {...props}>
     <g stroke="#000" strokeLinejoin="round">
       <path d="M53.75 17.19l.927.663-.344-1.086.917-.677-1.14-.099-.36-.991-.36 1.081-1.14.009.917.677-.344 1.086.927-.663z" />
