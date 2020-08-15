@@ -11,7 +11,7 @@
     "build:ts": "STORYBOOK_GA_ID=UA-170216861-1 tsc --project tsconfig.build.json",
     "build:ts:cjs": "tsc --project tsconfig.build-cjs.json",
     "clean": "yarn rimraf ./lib",
-    "deploy-storybook": "storybook-to-ghpages",
+    "deploy-storybook": "STORYBOOK_GA_ID=UA-170216861-1 storybook-to-ghpages",
     "generate-emojis": "yarn generate-script && scripts/generate-emojis.sh",
     "generate-script": "scripts/generate-script.sh",
     "lint": "yarn lint:ts && yarn lint:css",
