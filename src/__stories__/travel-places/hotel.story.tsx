@@ -5,12 +5,13 @@
 
 import React, { ReactElement } from 'react';
 import { EmojiWrapper, EmojiTextWrapper, EmojiItem } from '../../styled';
+import { StyledStory } from '../../styled-app';
 import { EMOJI_LIST } from './hotel';
 
 const emojiStyle = { width: '7rem', height: '7rem' };
 
 const renderItem = (
-  item : { emoji : React.SFC<React.SVGProps<SVGSVGElement>> , name : string }
+  item : { emoji : React.SFC<React.SVGProps<SVGSVGElement>>, name : string }
 ) : ReactElement => {
   const Emoji = item.emoji;
   return (
@@ -28,13 +29,15 @@ const renderItem = (
 const emojis = EMOJI_LIST.map(renderItem);
 
 export const Hotel = () : ReactElement => (
-  <EmojiWrapper>
-    {emojis}
-  </EmojiWrapper>
+  <StyledStory>
+    <EmojiWrapper>
+      {emojis}
+    </EmojiWrapper>
+  </StyledStory>
 );
 
 export default {
-  title: 'TravelPlaces|Hotel',
+  title: 'TravelPlaces/Hotel',
 
   parameters: {
     component: Hotel,
