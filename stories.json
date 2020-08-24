@@ -1,0 +1,1577 @@
+{
+  "v": 2,
+  "globalParameters": {},
+  "kindParameters": {
+    "1. React Pakistan | Intro": {
+      "fileName": 475,
+      "framework": "react"
+    },
+    "Activities/ArtsCrafts": {
+      "fileName": 567,
+      "framework": "react"
+    },
+    "Activities/AwardMedal": {
+      "fileName": 568,
+      "framework": "react"
+    },
+    "Activities/Event": {
+      "fileName": 514,
+      "framework": "react"
+    },
+    "Activities/Game": {
+      "fileName": 510,
+      "framework": "react"
+    },
+    "Activities/Sport": {
+      "fileName": 504,
+      "framework": "react"
+    },
+    "AnimalsNature/AnimalAmphibian": {
+      "fileName": 589,
+      "framework": "react"
+    },
+    "AnimalsNature/AnimalBird": {
+      "fileName": 520,
+      "framework": "react"
+    },
+    "AnimalsNature/AnimalBug": {
+      "fileName": 527,
+      "framework": "react"
+    },
+    "AnimalsNature/AnimalMammal": {
+      "fileName": 485,
+      "framework": "react"
+    },
+    "AnimalsNature/AnimalMarine": {
+      "fileName": 548,
+      "framework": "react"
+    },
+    "AnimalsNature/AnimalReptile": {
+      "fileName": 556,
+      "framework": "react"
+    },
+    "AnimalsNature/PlantFlower": {
+      "fileName": 546,
+      "framework": "react"
+    },
+    "AnimalsNature/PlantOther": {
+      "fileName": 531,
+      "framework": "react"
+    },
+    "Extras/AnimalsNature": {
+      "fileName": 543,
+      "framework": "react"
+    },
+    "Extras/Brand": {
+      "fileName": 544,
+      "framework": "react"
+    },
+    "Extras/ClimateEnvironment": {
+      "fileName": 505,
+      "framework": "react"
+    },
+    "Extras/Emergency": {
+      "fileName": 489,
+      "framework": "react"
+    },
+    "Extras/Flags": {
+      "fileName": 517,
+      "framework": "react"
+    },
+    "Extras/FoodDrink": {
+      "fileName": 562,
+      "framework": "react"
+    },
+    "Extras/Gardening": {
+      "fileName": 549,
+      "framework": "react"
+    },
+    "Extras/Healthcare": {
+      "fileName": 494,
+      "framework": "react"
+    },
+    "Extras/Interaction": {
+      "fileName": 528,
+      "framework": "react"
+    },
+    "Extras/Objects": {
+      "fileName": 524,
+      "framework": "react"
+    },
+    "Extras/People": {
+      "fileName": 557,
+      "framework": "react"
+    },
+    "Extras/SmileysEmotion": {
+      "fileName": 581,
+      "framework": "react"
+    },
+    "Extras/Symbols": {
+      "fileName": 586,
+      "framework": "react"
+    },
+    "Extras/Technology": {
+      "fileName": 511,
+      "framework": "react"
+    },
+    "Extras/TravelPlaces": {
+      "fileName": 532,
+      "framework": "react"
+    },
+    "Extras/UiElement": {
+      "fileName": 491,
+      "framework": "react"
+    },
+    "FoodDrink/Dishware": {
+      "fileName": 569,
+      "framework": "react"
+    },
+    "FoodDrink/Drink": {
+      "fileName": 521,
+      "framework": "react"
+    },
+    "FoodDrink/FoodAsian": {
+      "fileName": 522,
+      "framework": "react"
+    },
+    "FoodDrink/FoodFruit": {
+      "fileName": 518,
+      "framework": "react"
+    },
+    "FoodDrink/FoodMarine": {
+      "fileName": 575,
+      "framework": "react"
+    },
+    "FoodDrink/FoodPrepared": {
+      "fileName": 499,
+      "framework": "react"
+    },
+    "FoodDrink/FoodSweet": {
+      "fileName": 529,
+      "framework": "react"
+    },
+    "FoodDrink/FoodVegetable": {
+      "fileName": 530,
+      "framework": "react"
+    },
+    "Objects/BookPaper": {
+      "fileName": 523,
+      "framework": "react"
+    },
+    "Objects/Clothing": {
+      "fileName": 490,
+      "framework": "react"
+    },
+    "Objects/Computer": {
+      "fileName": 533,
+      "framework": "react"
+    },
+    "Objects/Household": {
+      "fileName": 513,
+      "framework": "react"
+    },
+    "Objects/LightVideo": {
+      "fileName": 525,
+      "framework": "react"
+    },
+    "Objects/Lock": {
+      "fileName": 570,
+      "framework": "react"
+    },
+    "Objects/Mail": {
+      "fileName": 534,
+      "framework": "react"
+    },
+    "Objects/Medical": {
+      "fileName": 576,
+      "framework": "react"
+    },
+    "Objects/Money": {
+      "fileName": 550,
+      "framework": "react"
+    },
+    "Objects/Music": {
+      "fileName": 551,
+      "framework": "react"
+    },
+    "Objects/MusicalInstrument": {
+      "fileName": 558,
+      "framework": "react"
+    },
+    "Objects/Office": {
+      "fileName": 512,
+      "framework": "react"
+    },
+    "Objects/OtherObject": {
+      "fileName": 571,
+      "framework": "react"
+    },
+    "Objects/Phone": {
+      "fileName": 572,
+      "framework": "react"
+    },
+    "Objects/Science": {
+      "fileName": 563,
+      "framework": "react"
+    },
+    "Objects/Sound": {
+      "fileName": 552,
+      "framework": "react"
+    },
+    "Objects/Tool": {
+      "fileName": 506,
+      "framework": "react"
+    },
+    "Objects/Writing": {
+      "fileName": 564,
+      "framework": "react"
+    },
+    "PeopleBody/BodyParts": {
+      "fileName": 487,
+      "framework": "react"
+    },
+    "PeopleBody/Family": {
+      "fileName": 484,
+      "framework": "react"
+    },
+    "PeopleBody/HandFingersClosed": {
+      "fileName": 495,
+      "framework": "react"
+    },
+    "PeopleBody/HandFingersOpen": {
+      "fileName": 502,
+      "framework": "react"
+    },
+    "PeopleBody/HandFingersPartial": {
+      "fileName": 492,
+      "framework": "react"
+    },
+    "PeopleBody/HandProp": {
+      "fileName": 519,
+      "framework": "react"
+    },
+    "PeopleBody/HandSingleFinger": {
+      "fileName": 496,
+      "framework": "react"
+    },
+    "PeopleBody/Hands": {
+      "fileName": 500,
+      "framework": "react"
+    },
+    "PeopleBody/PersonActivity": {
+      "fileName": 480,
+      "framework": "react"
+    },
+    "PeopleBody/PersonFantasy": {
+      "fileName": 483,
+      "framework": "react"
+    },
+    "PeopleBody/PersonGesture": {
+      "fileName": 481,
+      "framework": "react"
+    },
+    "PeopleBody/PersonResting": {
+      "fileName": 503,
+      "framework": "react"
+    },
+    "PeopleBody/PersonRole": {
+      "fileName": 478,
+      "framework": "react"
+    },
+    "PeopleBody/PersonSport": {
+      "fileName": 479,
+      "framework": "react"
+    },
+    "PeopleBody/PersonSymbol": {
+      "fileName": 577,
+      "framework": "react"
+    },
+    "PeopleBody/Person": {
+      "fileName": 482,
+      "framework": "react"
+    },
+    "SmileysEmotion/CatFace": {
+      "fileName": 553,
+      "framework": "react"
+    },
+    "SmileysEmotion/Emotion": {
+      "fileName": 497,
+      "framework": "react"
+    },
+    "SmileysEmotion/FaceAffection": {
+      "fileName": 554,
+      "framework": "react"
+    },
+    "SmileysEmotion/FaceConcerned": {
+      "fileName": 507,
+      "framework": "react"
+    },
+    "SmileysEmotion/FaceCostume": {
+      "fileName": 559,
+      "framework": "react"
+    },
+    "SmileysEmotion/FaceGlasses": {
+      "fileName": 582,
+      "framework": "react"
+    },
+    "SmileysEmotion/FaceHand": {
+      "fileName": 580,
+      "framework": "react"
+    },
+    "SmileysEmotion/FaceHat": {
+      "fileName": 583,
+      "framework": "react"
+    },
+    "SmileysEmotion/FaceNegative": {
+      "fileName": 560,
+      "framework": "react"
+    },
+    "SmileysEmotion/FaceNeutralSkeptical": {
+      "fileName": 547,
+      "framework": "react"
+    },
+    "SmileysEmotion/FaceSleepy": {
+      "fileName": 578,
+      "framework": "react"
+    },
+    "SmileysEmotion/FaceSmiling": {
+      "fileName": 535,
+      "framework": "react"
+    },
+    "SmileysEmotion/FaceTongue": {
+      "fileName": 573,
+      "framework": "react"
+    },
+    "SmileysEmotion/FaceUnwell": {
+      "fileName": 545,
+      "framework": "react"
+    },
+    "SmileysEmotion/MonkeyFace": {
+      "fileName": 584,
+      "framework": "react"
+    },
+    "Symbols/Alphanum": {
+      "fileName": 493,
+      "framework": "react"
+    },
+    "Symbols/Arrow": {
+      "fileName": 515,
+      "framework": "react"
+    },
+    "Symbols/AvSymbol": {
+      "fileName": 508,
+      "framework": "react"
+    },
+    "Symbols/Currency": {
+      "fileName": 587,
+      "framework": "react"
+    },
+    "Symbols/Gender": {
+      "fileName": 585,
+      "framework": "react"
+    },
+    "Symbols/Geometric": {
+      "fileName": 498,
+      "framework": "react"
+    },
+    "Symbols/Keycap": {
+      "fileName": 536,
+      "framework": "react"
+    },
+    "Symbols/Math": {
+      "fileName": 579,
+      "framework": "react"
+    },
+    "Symbols/OtherSymbol": {
+      "fileName": 516,
+      "framework": "react"
+    },
+    "Symbols/Punctuation": {
+      "fileName": 565,
+      "framework": "react"
+    },
+    "Symbols/Religion": {
+      "fileName": 541,
+      "framework": "react"
+    },
+    "Symbols/TransportSign": {
+      "fileName": 537,
+      "framework": "react"
+    },
+    "Symbols/Warning": {
+      "fileName": 538,
+      "framework": "react"
+    },
+    "Symbols/Zodiac": {
+      "fileName": 539,
+      "framework": "react"
+    },
+    "TravelPlaces/Hotel": {
+      "fileName": 588,
+      "framework": "react"
+    },
+    "TravelPlaces/PlaceBuilding": {
+      "fileName": 509,
+      "framework": "react"
+    },
+    "TravelPlaces/PlaceGeographic": {
+      "fileName": 555,
+      "framework": "react"
+    },
+    "TravelPlaces/PlaceMap": {
+      "fileName": 566,
+      "framework": "react"
+    },
+    "TravelPlaces/PlaceOther": {
+      "fileName": 526,
+      "framework": "react"
+    },
+    "TravelPlaces/PlaceReligious": {
+      "fileName": 574,
+      "framework": "react"
+    },
+    "TravelPlaces/SkyWeather": {
+      "fileName": 488,
+      "framework": "react"
+    },
+    "TravelPlaces/Time": {
+      "fileName": 501,
+      "framework": "react"
+    },
+    "TravelPlaces/TransportAir": {
+      "fileName": 540,
+      "framework": "react"
+    },
+    "TravelPlaces/TransportGround": {
+      "fileName": 486,
+      "framework": "react"
+    },
+    "TravelPlaces/TransportWater": {
+      "fileName": 561,
+      "framework": "react"
+    }
+  },
+  "stories": {
+    "1-react-pakistan-intro--page": {
+      "id": "1-react-pakistan-intro--page",
+      "name": "Page",
+      "kind": "1. React Pakistan | Intro",
+      "story": "Page",
+      "parameters": {
+        "docsOnly": true,
+        "__id": "1-react-pakistan-intro--page",
+        "__isArgsStory": false
+      }
+    },
+    "activities-artscrafts--arts-crafts": {
+      "id": "activities-artscrafts--arts-crafts",
+      "name": "Arts Crafts",
+      "kind": "Activities/ArtsCrafts",
+      "story": "Arts Crafts",
+      "parameters": {
+        "__id": "activities-artscrafts--arts-crafts",
+        "__isArgsStory": false
+      }
+    },
+    "activities-awardmedal--award-medal": {
+      "id": "activities-awardmedal--award-medal",
+      "name": "Award Medal",
+      "kind": "Activities/AwardMedal",
+      "story": "Award Medal",
+      "parameters": {
+        "__id": "activities-awardmedal--award-medal",
+        "__isArgsStory": false
+      }
+    },
+    "activities-event--event": {
+      "id": "activities-event--event",
+      "name": "Event",
+      "kind": "Activities/Event",
+      "story": "Event",
+      "parameters": {
+        "__id": "activities-event--event",
+        "__isArgsStory": false
+      }
+    },
+    "activities-game--game": {
+      "id": "activities-game--game",
+      "name": "Game",
+      "kind": "Activities/Game",
+      "story": "Game",
+      "parameters": {
+        "__id": "activities-game--game",
+        "__isArgsStory": false
+      }
+    },
+    "activities-sport--sport": {
+      "id": "activities-sport--sport",
+      "name": "Sport",
+      "kind": "Activities/Sport",
+      "story": "Sport",
+      "parameters": {
+        "__id": "activities-sport--sport",
+        "__isArgsStory": false
+      }
+    },
+    "animalsnature-animalamphibian--animal-amphibian": {
+      "id": "animalsnature-animalamphibian--animal-amphibian",
+      "name": "Animal Amphibian",
+      "kind": "AnimalsNature/AnimalAmphibian",
+      "story": "Animal Amphibian",
+      "parameters": {
+        "__id": "animalsnature-animalamphibian--animal-amphibian",
+        "__isArgsStory": false
+      }
+    },
+    "animalsnature-animalbird--animal-bird": {
+      "id": "animalsnature-animalbird--animal-bird",
+      "name": "Animal Bird",
+      "kind": "AnimalsNature/AnimalBird",
+      "story": "Animal Bird",
+      "parameters": {
+        "__id": "animalsnature-animalbird--animal-bird",
+        "__isArgsStory": false
+      }
+    },
+    "animalsnature-animalbug--animal-bug": {
+      "id": "animalsnature-animalbug--animal-bug",
+      "name": "Animal Bug",
+      "kind": "AnimalsNature/AnimalBug",
+      "story": "Animal Bug",
+      "parameters": {
+        "__id": "animalsnature-animalbug--animal-bug",
+        "__isArgsStory": false
+      }
+    },
+    "animalsnature-animalmammal--animal-mammal": {
+      "id": "animalsnature-animalmammal--animal-mammal",
+      "name": "Animal Mammal",
+      "kind": "AnimalsNature/AnimalMammal",
+      "story": "Animal Mammal",
+      "parameters": {
+        "__id": "animalsnature-animalmammal--animal-mammal",
+        "__isArgsStory": false
+      }
+    },
+    "animalsnature-animalmarine--animal-marine": {
+      "id": "animalsnature-animalmarine--animal-marine",
+      "name": "Animal Marine",
+      "kind": "AnimalsNature/AnimalMarine",
+      "story": "Animal Marine",
+      "parameters": {
+        "__id": "animalsnature-animalmarine--animal-marine",
+        "__isArgsStory": false
+      }
+    },
+    "animalsnature-animalreptile--animal-reptile": {
+      "id": "animalsnature-animalreptile--animal-reptile",
+      "name": "Animal Reptile",
+      "kind": "AnimalsNature/AnimalReptile",
+      "story": "Animal Reptile",
+      "parameters": {
+        "__id": "animalsnature-animalreptile--animal-reptile",
+        "__isArgsStory": false
+      }
+    },
+    "animalsnature-plantflower--plant-flower": {
+      "id": "animalsnature-plantflower--plant-flower",
+      "name": "Plant Flower",
+      "kind": "AnimalsNature/PlantFlower",
+      "story": "Plant Flower",
+      "parameters": {
+        "__id": "animalsnature-plantflower--plant-flower",
+        "__isArgsStory": false
+      }
+    },
+    "animalsnature-plantother--plant-other": {
+      "id": "animalsnature-plantother--plant-other",
+      "name": "Plant Other",
+      "kind": "AnimalsNature/PlantOther",
+      "story": "Plant Other",
+      "parameters": {
+        "__id": "animalsnature-plantother--plant-other",
+        "__isArgsStory": false
+      }
+    },
+    "extras-animalsnature--animals-nature": {
+      "id": "extras-animalsnature--animals-nature",
+      "name": "Animals Nature",
+      "kind": "Extras/AnimalsNature",
+      "story": "Animals Nature",
+      "parameters": {
+        "__id": "extras-animalsnature--animals-nature",
+        "__isArgsStory": false
+      }
+    },
+    "extras-brand--brand": {
+      "id": "extras-brand--brand",
+      "name": "Brand",
+      "kind": "Extras/Brand",
+      "story": "Brand",
+      "parameters": {
+        "__id": "extras-brand--brand",
+        "__isArgsStory": false
+      }
+    },
+    "extras-climateenvironment--climate-environment": {
+      "id": "extras-climateenvironment--climate-environment",
+      "name": "Climate Environment",
+      "kind": "Extras/ClimateEnvironment",
+      "story": "Climate Environment",
+      "parameters": {
+        "__id": "extras-climateenvironment--climate-environment",
+        "__isArgsStory": false
+      }
+    },
+    "extras-emergency--emergency": {
+      "id": "extras-emergency--emergency",
+      "name": "Emergency",
+      "kind": "Extras/Emergency",
+      "story": "Emergency",
+      "parameters": {
+        "__id": "extras-emergency--emergency",
+        "__isArgsStory": false
+      }
+    },
+    "extras-flags--flags": {
+      "id": "extras-flags--flags",
+      "name": "Flags",
+      "kind": "Extras/Flags",
+      "story": "Flags",
+      "parameters": {
+        "__id": "extras-flags--flags",
+        "__isArgsStory": false
+      }
+    },
+    "extras-fooddrink--food-drink": {
+      "id": "extras-fooddrink--food-drink",
+      "name": "Food Drink",
+      "kind": "Extras/FoodDrink",
+      "story": "Food Drink",
+      "parameters": {
+        "__id": "extras-fooddrink--food-drink",
+        "__isArgsStory": false
+      }
+    },
+    "extras-gardening--gardening": {
+      "id": "extras-gardening--gardening",
+      "name": "Gardening",
+      "kind": "Extras/Gardening",
+      "story": "Gardening",
+      "parameters": {
+        "__id": "extras-gardening--gardening",
+        "__isArgsStory": false
+      }
+    },
+    "extras-healthcare--healthcare": {
+      "id": "extras-healthcare--healthcare",
+      "name": "Healthcare",
+      "kind": "Extras/Healthcare",
+      "story": "Healthcare",
+      "parameters": {
+        "__id": "extras-healthcare--healthcare",
+        "__isArgsStory": false
+      }
+    },
+    "extras-interaction--interaction": {
+      "id": "extras-interaction--interaction",
+      "name": "Interaction",
+      "kind": "Extras/Interaction",
+      "story": "Interaction",
+      "parameters": {
+        "__id": "extras-interaction--interaction",
+        "__isArgsStory": false
+      }
+    },
+    "extras-objects--objects": {
+      "id": "extras-objects--objects",
+      "name": "Objects",
+      "kind": "Extras/Objects",
+      "story": "Objects",
+      "parameters": {
+        "__id": "extras-objects--objects",
+        "__isArgsStory": false
+      }
+    },
+    "extras-people--people": {
+      "id": "extras-people--people",
+      "name": "People",
+      "kind": "Extras/People",
+      "story": "People",
+      "parameters": {
+        "__id": "extras-people--people",
+        "__isArgsStory": false
+      }
+    },
+    "extras-smileysemotion--smileys-emotion": {
+      "id": "extras-smileysemotion--smileys-emotion",
+      "name": "Smileys Emotion",
+      "kind": "Extras/SmileysEmotion",
+      "story": "Smileys Emotion",
+      "parameters": {
+        "__id": "extras-smileysemotion--smileys-emotion",
+        "__isArgsStory": false
+      }
+    },
+    "extras-symbols--symbols": {
+      "id": "extras-symbols--symbols",
+      "name": "Symbols",
+      "kind": "Extras/Symbols",
+      "story": "Symbols",
+      "parameters": {
+        "__id": "extras-symbols--symbols",
+        "__isArgsStory": false
+      }
+    },
+    "extras-technology--technology": {
+      "id": "extras-technology--technology",
+      "name": "Technology",
+      "kind": "Extras/Technology",
+      "story": "Technology",
+      "parameters": {
+        "__id": "extras-technology--technology",
+        "__isArgsStory": false
+      }
+    },
+    "extras-travelplaces--travel-places": {
+      "id": "extras-travelplaces--travel-places",
+      "name": "Travel Places",
+      "kind": "Extras/TravelPlaces",
+      "story": "Travel Places",
+      "parameters": {
+        "__id": "extras-travelplaces--travel-places",
+        "__isArgsStory": false
+      }
+    },
+    "extras-uielement--ui-element": {
+      "id": "extras-uielement--ui-element",
+      "name": "Ui Element",
+      "kind": "Extras/UiElement",
+      "story": "Ui Element",
+      "parameters": {
+        "__id": "extras-uielement--ui-element",
+        "__isArgsStory": false
+      }
+    },
+    "fooddrink-dishware--dishware": {
+      "id": "fooddrink-dishware--dishware",
+      "name": "Dishware",
+      "kind": "FoodDrink/Dishware",
+      "story": "Dishware",
+      "parameters": {
+        "__id": "fooddrink-dishware--dishware",
+        "__isArgsStory": false
+      }
+    },
+    "fooddrink-drink--drink": {
+      "id": "fooddrink-drink--drink",
+      "name": "Drink",
+      "kind": "FoodDrink/Drink",
+      "story": "Drink",
+      "parameters": {
+        "__id": "fooddrink-drink--drink",
+        "__isArgsStory": false
+      }
+    },
+    "fooddrink-foodasian--food-asian": {
+      "id": "fooddrink-foodasian--food-asian",
+      "name": "Food Asian",
+      "kind": "FoodDrink/FoodAsian",
+      "story": "Food Asian",
+      "parameters": {
+        "__id": "fooddrink-foodasian--food-asian",
+        "__isArgsStory": false
+      }
+    },
+    "fooddrink-foodfruit--food-fruit": {
+      "id": "fooddrink-foodfruit--food-fruit",
+      "name": "Food Fruit",
+      "kind": "FoodDrink/FoodFruit",
+      "story": "Food Fruit",
+      "parameters": {
+        "__id": "fooddrink-foodfruit--food-fruit",
+        "__isArgsStory": false
+      }
+    },
+    "fooddrink-foodmarine--food-marine": {
+      "id": "fooddrink-foodmarine--food-marine",
+      "name": "Food Marine",
+      "kind": "FoodDrink/FoodMarine",
+      "story": "Food Marine",
+      "parameters": {
+        "__id": "fooddrink-foodmarine--food-marine",
+        "__isArgsStory": false
+      }
+    },
+    "fooddrink-foodprepared--food-prepared": {
+      "id": "fooddrink-foodprepared--food-prepared",
+      "name": "Food Prepared",
+      "kind": "FoodDrink/FoodPrepared",
+      "story": "Food Prepared",
+      "parameters": {
+        "__id": "fooddrink-foodprepared--food-prepared",
+        "__isArgsStory": false
+      }
+    },
+    "fooddrink-foodsweet--food-sweet": {
+      "id": "fooddrink-foodsweet--food-sweet",
+      "name": "Food Sweet",
+      "kind": "FoodDrink/FoodSweet",
+      "story": "Food Sweet",
+      "parameters": {
+        "__id": "fooddrink-foodsweet--food-sweet",
+        "__isArgsStory": false
+      }
+    },
+    "fooddrink-foodvegetable--food-vegetable": {
+      "id": "fooddrink-foodvegetable--food-vegetable",
+      "name": "Food Vegetable",
+      "kind": "FoodDrink/FoodVegetable",
+      "story": "Food Vegetable",
+      "parameters": {
+        "__id": "fooddrink-foodvegetable--food-vegetable",
+        "__isArgsStory": false
+      }
+    },
+    "objects-bookpaper--book-paper": {
+      "id": "objects-bookpaper--book-paper",
+      "name": "Book Paper",
+      "kind": "Objects/BookPaper",
+      "story": "Book Paper",
+      "parameters": {
+        "__id": "objects-bookpaper--book-paper",
+        "__isArgsStory": false
+      }
+    },
+    "objects-clothing--clothing": {
+      "id": "objects-clothing--clothing",
+      "name": "Clothing",
+      "kind": "Objects/Clothing",
+      "story": "Clothing",
+      "parameters": {
+        "__id": "objects-clothing--clothing",
+        "__isArgsStory": false
+      }
+    },
+    "objects-computer--computer": {
+      "id": "objects-computer--computer",
+      "name": "Computer",
+      "kind": "Objects/Computer",
+      "story": "Computer",
+      "parameters": {
+        "__id": "objects-computer--computer",
+        "__isArgsStory": false
+      }
+    },
+    "objects-household--household": {
+      "id": "objects-household--household",
+      "name": "Household",
+      "kind": "Objects/Household",
+      "story": "Household",
+      "parameters": {
+        "__id": "objects-household--household",
+        "__isArgsStory": false
+      }
+    },
+    "objects-lightvideo--light-video": {
+      "id": "objects-lightvideo--light-video",
+      "name": "Light Video",
+      "kind": "Objects/LightVideo",
+      "story": "Light Video",
+      "parameters": {
+        "__id": "objects-lightvideo--light-video",
+        "__isArgsStory": false
+      }
+    },
+    "objects-lock--lock": {
+      "id": "objects-lock--lock",
+      "name": "Lock",
+      "kind": "Objects/Lock",
+      "story": "Lock",
+      "parameters": {
+        "__id": "objects-lock--lock",
+        "__isArgsStory": false
+      }
+    },
+    "objects-mail--mail": {
+      "id": "objects-mail--mail",
+      "name": "Mail",
+      "kind": "Objects/Mail",
+      "story": "Mail",
+      "parameters": {
+        "__id": "objects-mail--mail",
+        "__isArgsStory": false
+      }
+    },
+    "objects-medical--medical": {
+      "id": "objects-medical--medical",
+      "name": "Medical",
+      "kind": "Objects/Medical",
+      "story": "Medical",
+      "parameters": {
+        "__id": "objects-medical--medical",
+        "__isArgsStory": false
+      }
+    },
+    "objects-money--money": {
+      "id": "objects-money--money",
+      "name": "Money",
+      "kind": "Objects/Money",
+      "story": "Money",
+      "parameters": {
+        "__id": "objects-money--money",
+        "__isArgsStory": false
+      }
+    },
+    "objects-music--music": {
+      "id": "objects-music--music",
+      "name": "Music",
+      "kind": "Objects/Music",
+      "story": "Music",
+      "parameters": {
+        "__id": "objects-music--music",
+        "__isArgsStory": false
+      }
+    },
+    "objects-musicalinstrument--musical-instrument": {
+      "id": "objects-musicalinstrument--musical-instrument",
+      "name": "Musical Instrument",
+      "kind": "Objects/MusicalInstrument",
+      "story": "Musical Instrument",
+      "parameters": {
+        "__id": "objects-musicalinstrument--musical-instrument",
+        "__isArgsStory": false
+      }
+    },
+    "objects-office--office": {
+      "id": "objects-office--office",
+      "name": "Office",
+      "kind": "Objects/Office",
+      "story": "Office",
+      "parameters": {
+        "__id": "objects-office--office",
+        "__isArgsStory": false
+      }
+    },
+    "objects-otherobject--other-object": {
+      "id": "objects-otherobject--other-object",
+      "name": "Other Object",
+      "kind": "Objects/OtherObject",
+      "story": "Other Object",
+      "parameters": {
+        "__id": "objects-otherobject--other-object",
+        "__isArgsStory": false
+      }
+    },
+    "objects-phone--phone": {
+      "id": "objects-phone--phone",
+      "name": "Phone",
+      "kind": "Objects/Phone",
+      "story": "Phone",
+      "parameters": {
+        "__id": "objects-phone--phone",
+        "__isArgsStory": false
+      }
+    },
+    "objects-science--science": {
+      "id": "objects-science--science",
+      "name": "Science",
+      "kind": "Objects/Science",
+      "story": "Science",
+      "parameters": {
+        "__id": "objects-science--science",
+        "__isArgsStory": false
+      }
+    },
+    "objects-sound--sound": {
+      "id": "objects-sound--sound",
+      "name": "Sound",
+      "kind": "Objects/Sound",
+      "story": "Sound",
+      "parameters": {
+        "__id": "objects-sound--sound",
+        "__isArgsStory": false
+      }
+    },
+    "objects-tool--tool": {
+      "id": "objects-tool--tool",
+      "name": "Tool",
+      "kind": "Objects/Tool",
+      "story": "Tool",
+      "parameters": {
+        "__id": "objects-tool--tool",
+        "__isArgsStory": false
+      }
+    },
+    "objects-writing--writing": {
+      "id": "objects-writing--writing",
+      "name": "Writing",
+      "kind": "Objects/Writing",
+      "story": "Writing",
+      "parameters": {
+        "__id": "objects-writing--writing",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-bodyparts--body-parts": {
+      "id": "peoplebody-bodyparts--body-parts",
+      "name": "Body Parts",
+      "kind": "PeopleBody/BodyParts",
+      "story": "Body Parts",
+      "parameters": {
+        "__id": "peoplebody-bodyparts--body-parts",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-family--family": {
+      "id": "peoplebody-family--family",
+      "name": "Family",
+      "kind": "PeopleBody/Family",
+      "story": "Family",
+      "parameters": {
+        "__id": "peoplebody-family--family",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-handfingersclosed--hand-fingers-closed": {
+      "id": "peoplebody-handfingersclosed--hand-fingers-closed",
+      "name": "Hand Fingers Closed",
+      "kind": "PeopleBody/HandFingersClosed",
+      "story": "Hand Fingers Closed",
+      "parameters": {
+        "__id": "peoplebody-handfingersclosed--hand-fingers-closed",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-handfingersopen--hand-fingers-open": {
+      "id": "peoplebody-handfingersopen--hand-fingers-open",
+      "name": "Hand Fingers Open",
+      "kind": "PeopleBody/HandFingersOpen",
+      "story": "Hand Fingers Open",
+      "parameters": {
+        "__id": "peoplebody-handfingersopen--hand-fingers-open",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-handfingerspartial--hand-fingers-partial": {
+      "id": "peoplebody-handfingerspartial--hand-fingers-partial",
+      "name": "Hand Fingers Partial",
+      "kind": "PeopleBody/HandFingersPartial",
+      "story": "Hand Fingers Partial",
+      "parameters": {
+        "__id": "peoplebody-handfingerspartial--hand-fingers-partial",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-handprop--hand-prop": {
+      "id": "peoplebody-handprop--hand-prop",
+      "name": "Hand Prop",
+      "kind": "PeopleBody/HandProp",
+      "story": "Hand Prop",
+      "parameters": {
+        "__id": "peoplebody-handprop--hand-prop",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-handsinglefinger--hand-single-finger": {
+      "id": "peoplebody-handsinglefinger--hand-single-finger",
+      "name": "Hand Single Finger",
+      "kind": "PeopleBody/HandSingleFinger",
+      "story": "Hand Single Finger",
+      "parameters": {
+        "__id": "peoplebody-handsinglefinger--hand-single-finger",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-hands--hands": {
+      "id": "peoplebody-hands--hands",
+      "name": "Hands",
+      "kind": "PeopleBody/Hands",
+      "story": "Hands",
+      "parameters": {
+        "__id": "peoplebody-hands--hands",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-personactivity--person-activity": {
+      "id": "peoplebody-personactivity--person-activity",
+      "name": "Person Activity",
+      "kind": "PeopleBody/PersonActivity",
+      "story": "Person Activity",
+      "parameters": {
+        "__id": "peoplebody-personactivity--person-activity",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-personfantasy--person-fantasy": {
+      "id": "peoplebody-personfantasy--person-fantasy",
+      "name": "Person Fantasy",
+      "kind": "PeopleBody/PersonFantasy",
+      "story": "Person Fantasy",
+      "parameters": {
+        "__id": "peoplebody-personfantasy--person-fantasy",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-persongesture--person-gesture": {
+      "id": "peoplebody-persongesture--person-gesture",
+      "name": "Person Gesture",
+      "kind": "PeopleBody/PersonGesture",
+      "story": "Person Gesture",
+      "parameters": {
+        "__id": "peoplebody-persongesture--person-gesture",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-personresting--person-resting": {
+      "id": "peoplebody-personresting--person-resting",
+      "name": "Person Resting",
+      "kind": "PeopleBody/PersonResting",
+      "story": "Person Resting",
+      "parameters": {
+        "__id": "peoplebody-personresting--person-resting",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-personrole--person-role": {
+      "id": "peoplebody-personrole--person-role",
+      "name": "Person Role",
+      "kind": "PeopleBody/PersonRole",
+      "story": "Person Role",
+      "parameters": {
+        "__id": "peoplebody-personrole--person-role",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-personsport--person-sport": {
+      "id": "peoplebody-personsport--person-sport",
+      "name": "Person Sport",
+      "kind": "PeopleBody/PersonSport",
+      "story": "Person Sport",
+      "parameters": {
+        "__id": "peoplebody-personsport--person-sport",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-personsymbol--person-symbol": {
+      "id": "peoplebody-personsymbol--person-symbol",
+      "name": "Person Symbol",
+      "kind": "PeopleBody/PersonSymbol",
+      "story": "Person Symbol",
+      "parameters": {
+        "__id": "peoplebody-personsymbol--person-symbol",
+        "__isArgsStory": false
+      }
+    },
+    "peoplebody-person--person": {
+      "id": "peoplebody-person--person",
+      "name": "Person",
+      "kind": "PeopleBody/Person",
+      "story": "Person",
+      "parameters": {
+        "__id": "peoplebody-person--person",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-catface--cat-face": {
+      "id": "smileysemotion-catface--cat-face",
+      "name": "Cat Face",
+      "kind": "SmileysEmotion/CatFace",
+      "story": "Cat Face",
+      "parameters": {
+        "__id": "smileysemotion-catface--cat-face",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-emotion--emotion": {
+      "id": "smileysemotion-emotion--emotion",
+      "name": "Emotion",
+      "kind": "SmileysEmotion/Emotion",
+      "story": "Emotion",
+      "parameters": {
+        "__id": "smileysemotion-emotion--emotion",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-faceaffection--face-affection": {
+      "id": "smileysemotion-faceaffection--face-affection",
+      "name": "Face Affection",
+      "kind": "SmileysEmotion/FaceAffection",
+      "story": "Face Affection",
+      "parameters": {
+        "__id": "smileysemotion-faceaffection--face-affection",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-faceconcerned--face-concerned": {
+      "id": "smileysemotion-faceconcerned--face-concerned",
+      "name": "Face Concerned",
+      "kind": "SmileysEmotion/FaceConcerned",
+      "story": "Face Concerned",
+      "parameters": {
+        "__id": "smileysemotion-faceconcerned--face-concerned",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-facecostume--face-costume": {
+      "id": "smileysemotion-facecostume--face-costume",
+      "name": "Face Costume",
+      "kind": "SmileysEmotion/FaceCostume",
+      "story": "Face Costume",
+      "parameters": {
+        "__id": "smileysemotion-facecostume--face-costume",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-faceglasses--face-glasses": {
+      "id": "smileysemotion-faceglasses--face-glasses",
+      "name": "Face Glasses",
+      "kind": "SmileysEmotion/FaceGlasses",
+      "story": "Face Glasses",
+      "parameters": {
+        "__id": "smileysemotion-faceglasses--face-glasses",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-facehand--face-hand": {
+      "id": "smileysemotion-facehand--face-hand",
+      "name": "Face Hand",
+      "kind": "SmileysEmotion/FaceHand",
+      "story": "Face Hand",
+      "parameters": {
+        "__id": "smileysemotion-facehand--face-hand",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-facehat--face-hat": {
+      "id": "smileysemotion-facehat--face-hat",
+      "name": "Face Hat",
+      "kind": "SmileysEmotion/FaceHat",
+      "story": "Face Hat",
+      "parameters": {
+        "__id": "smileysemotion-facehat--face-hat",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-facenegative--face-negative": {
+      "id": "smileysemotion-facenegative--face-negative",
+      "name": "Face Negative",
+      "kind": "SmileysEmotion/FaceNegative",
+      "story": "Face Negative",
+      "parameters": {
+        "__id": "smileysemotion-facenegative--face-negative",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-faceneutralskeptical--face-neutral-skeptical": {
+      "id": "smileysemotion-faceneutralskeptical--face-neutral-skeptical",
+      "name": "Face Neutral Skeptical",
+      "kind": "SmileysEmotion/FaceNeutralSkeptical",
+      "story": "Face Neutral Skeptical",
+      "parameters": {
+        "__id": "smileysemotion-faceneutralskeptical--face-neutral-skeptical",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-facesleepy--face-sleepy": {
+      "id": "smileysemotion-facesleepy--face-sleepy",
+      "name": "Face Sleepy",
+      "kind": "SmileysEmotion/FaceSleepy",
+      "story": "Face Sleepy",
+      "parameters": {
+        "__id": "smileysemotion-facesleepy--face-sleepy",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-facesmiling--face-smiling": {
+      "id": "smileysemotion-facesmiling--face-smiling",
+      "name": "Face Smiling",
+      "kind": "SmileysEmotion/FaceSmiling",
+      "story": "Face Smiling",
+      "parameters": {
+        "__id": "smileysemotion-facesmiling--face-smiling",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-facetongue--face-tongue": {
+      "id": "smileysemotion-facetongue--face-tongue",
+      "name": "Face Tongue",
+      "kind": "SmileysEmotion/FaceTongue",
+      "story": "Face Tongue",
+      "parameters": {
+        "__id": "smileysemotion-facetongue--face-tongue",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-faceunwell--face-unwell": {
+      "id": "smileysemotion-faceunwell--face-unwell",
+      "name": "Face Unwell",
+      "kind": "SmileysEmotion/FaceUnwell",
+      "story": "Face Unwell",
+      "parameters": {
+        "__id": "smileysemotion-faceunwell--face-unwell",
+        "__isArgsStory": false
+      }
+    },
+    "smileysemotion-monkeyface--monkey-face": {
+      "id": "smileysemotion-monkeyface--monkey-face",
+      "name": "Monkey Face",
+      "kind": "SmileysEmotion/MonkeyFace",
+      "story": "Monkey Face",
+      "parameters": {
+        "__id": "smileysemotion-monkeyface--monkey-face",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-alphanum--alphanum": {
+      "id": "symbols-alphanum--alphanum",
+      "name": "Alphanum",
+      "kind": "Symbols/Alphanum",
+      "story": "Alphanum",
+      "parameters": {
+        "__id": "symbols-alphanum--alphanum",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-arrow--arrow": {
+      "id": "symbols-arrow--arrow",
+      "name": "Arrow",
+      "kind": "Symbols/Arrow",
+      "story": "Arrow",
+      "parameters": {
+        "__id": "symbols-arrow--arrow",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-avsymbol--av-symbol": {
+      "id": "symbols-avsymbol--av-symbol",
+      "name": "Av Symbol",
+      "kind": "Symbols/AvSymbol",
+      "story": "Av Symbol",
+      "parameters": {
+        "__id": "symbols-avsymbol--av-symbol",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-currency--currency": {
+      "id": "symbols-currency--currency",
+      "name": "Currency",
+      "kind": "Symbols/Currency",
+      "story": "Currency",
+      "parameters": {
+        "__id": "symbols-currency--currency",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-gender--gender": {
+      "id": "symbols-gender--gender",
+      "name": "Gender",
+      "kind": "Symbols/Gender",
+      "story": "Gender",
+      "parameters": {
+        "__id": "symbols-gender--gender",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-geometric--geometric": {
+      "id": "symbols-geometric--geometric",
+      "name": "Geometric",
+      "kind": "Symbols/Geometric",
+      "story": "Geometric",
+      "parameters": {
+        "__id": "symbols-geometric--geometric",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-keycap--keycap": {
+      "id": "symbols-keycap--keycap",
+      "name": "Keycap",
+      "kind": "Symbols/Keycap",
+      "story": "Keycap",
+      "parameters": {
+        "__id": "symbols-keycap--keycap",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-math--math": {
+      "id": "symbols-math--math",
+      "name": "Math",
+      "kind": "Symbols/Math",
+      "story": "Math",
+      "parameters": {
+        "__id": "symbols-math--math",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-othersymbol--other-symbol": {
+      "id": "symbols-othersymbol--other-symbol",
+      "name": "Other Symbol",
+      "kind": "Symbols/OtherSymbol",
+      "story": "Other Symbol",
+      "parameters": {
+        "__id": "symbols-othersymbol--other-symbol",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-punctuation--punctuation": {
+      "id": "symbols-punctuation--punctuation",
+      "name": "Punctuation",
+      "kind": "Symbols/Punctuation",
+      "story": "Punctuation",
+      "parameters": {
+        "__id": "symbols-punctuation--punctuation",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-religion--religion": {
+      "id": "symbols-religion--religion",
+      "name": "Religion",
+      "kind": "Symbols/Religion",
+      "story": "Religion",
+      "parameters": {
+        "__id": "symbols-religion--religion",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-transportsign--transport-sign": {
+      "id": "symbols-transportsign--transport-sign",
+      "name": "Transport Sign",
+      "kind": "Symbols/TransportSign",
+      "story": "Transport Sign",
+      "parameters": {
+        "__id": "symbols-transportsign--transport-sign",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-warning--warning": {
+      "id": "symbols-warning--warning",
+      "name": "Warning",
+      "kind": "Symbols/Warning",
+      "story": "Warning",
+      "parameters": {
+        "__id": "symbols-warning--warning",
+        "__isArgsStory": false
+      }
+    },
+    "symbols-zodiac--zodiac": {
+      "id": "symbols-zodiac--zodiac",
+      "name": "Zodiac",
+      "kind": "Symbols/Zodiac",
+      "story": "Zodiac",
+      "parameters": {
+        "__id": "symbols-zodiac--zodiac",
+        "__isArgsStory": false
+      }
+    },
+    "travelplaces-hotel--hotel": {
+      "id": "travelplaces-hotel--hotel",
+      "name": "Hotel",
+      "kind": "TravelPlaces/Hotel",
+      "story": "Hotel",
+      "parameters": {
+        "__id": "travelplaces-hotel--hotel",
+        "__isArgsStory": false
+      }
+    },
+    "travelplaces-placebuilding--place-building": {
+      "id": "travelplaces-placebuilding--place-building",
+      "name": "Place Building",
+      "kind": "TravelPlaces/PlaceBuilding",
+      "story": "Place Building",
+      "parameters": {
+        "__id": "travelplaces-placebuilding--place-building",
+        "__isArgsStory": false
+      }
+    },
+    "travelplaces-placegeographic--place-geographic": {
+      "id": "travelplaces-placegeographic--place-geographic",
+      "name": "Place Geographic",
+      "kind": "TravelPlaces/PlaceGeographic",
+      "story": "Place Geographic",
+      "parameters": {
+        "__id": "travelplaces-placegeographic--place-geographic",
+        "__isArgsStory": false
+      }
+    },
+    "travelplaces-placemap--place-map": {
+      "id": "travelplaces-placemap--place-map",
+      "name": "Place Map",
+      "kind": "TravelPlaces/PlaceMap",
+      "story": "Place Map",
+      "parameters": {
+        "__id": "travelplaces-placemap--place-map",
+        "__isArgsStory": false
+      }
+    },
+    "travelplaces-placeother--place-other": {
+      "id": "travelplaces-placeother--place-other",
+      "name": "Place Other",
+      "kind": "TravelPlaces/PlaceOther",
+      "story": "Place Other",
+      "parameters": {
+        "__id": "travelplaces-placeother--place-other",
+        "__isArgsStory": false
+      }
+    },
+    "travelplaces-placereligious--place-religious": {
+      "id": "travelplaces-placereligious--place-religious",
+      "name": "Place Religious",
+      "kind": "TravelPlaces/PlaceReligious",
+      "story": "Place Religious",
+      "parameters": {
+        "__id": "travelplaces-placereligious--place-religious",
+        "__isArgsStory": false
+      }
+    },
+    "travelplaces-skyweather--sky-weather": {
+      "id": "travelplaces-skyweather--sky-weather",
+      "name": "Sky Weather",
+      "kind": "TravelPlaces/SkyWeather",
+      "story": "Sky Weather",
+      "parameters": {
+        "__id": "travelplaces-skyweather--sky-weather",
+        "__isArgsStory": false
+      }
+    },
+    "travelplaces-time--time": {
+      "id": "travelplaces-time--time",
+      "name": "Time",
+      "kind": "TravelPlaces/Time",
+      "story": "Time",
+      "parameters": {
+        "__id": "travelplaces-time--time",
+        "__isArgsStory": false
+      }
+    },
+    "travelplaces-transportair--transport-air": {
+      "id": "travelplaces-transportair--transport-air",
+      "name": "Transport Air",
+      "kind": "TravelPlaces/TransportAir",
+      "story": "Transport Air",
+      "parameters": {
+        "__id": "travelplaces-transportair--transport-air",
+        "__isArgsStory": false
+      }
+    },
+    "travelplaces-transportground--transport-ground": {
+      "id": "travelplaces-transportground--transport-ground",
+      "name": "Transport Ground",
+      "kind": "TravelPlaces/TransportGround",
+      "story": "Transport Ground",
+      "parameters": {
+        "__id": "travelplaces-transportground--transport-ground",
+        "__isArgsStory": false
+      }
+    },
+    "travelplaces-transportwater--transport-water": {
+      "id": "travelplaces-transportwater--transport-water",
+      "name": "Transport Water",
+      "kind": "TravelPlaces/TransportWater",
+      "story": "Transport Water",
+      "parameters": {
+        "__id": "travelplaces-transportwater--transport-water",
+        "__isArgsStory": false
+      }
+    }
+  }
+}
