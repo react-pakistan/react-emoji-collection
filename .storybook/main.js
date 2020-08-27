@@ -1,9 +1,9 @@
 module.exports = {
-  'stories': [
+  stories: [
     '../src/**/*.story.mdx',
     '../src/**/*.story.@(js|jsx|ts|tsx)',
   ],
-  'addons': [
+  addons: [
     '@storybook/addon-links',
     '@storybook/addon-essentials',
     '@storybook/addon-google-analytics',
