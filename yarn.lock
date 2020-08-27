@@ -3650,6 +3650,11 @@
     react-share "^4.2.1"
     styled-components "^5.1.1"
 
+"@taimoormk/react-icon-collection@^1.0.8":
+  version "1.0.8"
+  resolved "https://npm.pkg.github.com/download/@taimoormk/react-icon-collection/1.0.8/1f4ef501c175318e4f197cd4a1ab11fefde2cd4dbd568a3dd0af26321f836ee2#ea87eee6118e637d0c4281b54901d4de86b0b2d8"
+  integrity sha512-hTArIvBrM2NJjHFszA2d+ku0nZirUg8wpvtS7NRA4OsBugmoz03ofWqNgnM8Z/xmWcwCX/nCMnV8oRt9LX68eQ==
+
 "@taimoormk/react-logo-collection@^1.0.8":
   version "1.0.8"
   resolved "https://npm.pkg.github.com/download/@taimoormk/react-logo-collection/1.0.8/e3c3ae5d806eadacae0ccab4d0c99ada5279e86d70ab04c6f5da573a0409cbad#d9d0195184aca571b6ba596bf700b49da10d135d"
