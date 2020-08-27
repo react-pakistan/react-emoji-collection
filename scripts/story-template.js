@@ -15,7 +15,7 @@ import { EMOJI_LIST } from './${emojiListDirName}';
 const emojiStyle = { width: '7rem', height: '7rem' };
 
 const renderItem = (
-  item : { emoji : React.SFC<React.SVGProps<SVGSVGElement>>, name : string }
+  item : { emoji : ReactElement<React.SVGProps<SVGSVGElement>>, name : string }
 ) : ReactElement => {
   const Emoji = item.emoji;
   return (

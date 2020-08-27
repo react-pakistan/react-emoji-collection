@@ -23,8 +23,8 @@ export const EmojiItem = styled.div`
 `;
 
 export interface IEmojiProps extends SVGProps<SVGSVGElement> {
-  style : {
-    height : string;
-    width : string;
+  style? : {
+    height? : string;
+    width? : string;
   }
 }
