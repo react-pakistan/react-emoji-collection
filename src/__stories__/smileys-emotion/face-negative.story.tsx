@@ -11,7 +11,7 @@ import { EMOJI_LIST } from './face-negative';
 const emojiStyle = { width: '7rem', height: '7rem' };
 
 const renderItem = (
-  item : { emoji : ReactElement<React.SVGProps<SVGSVGElement>>, name : string }
+  item : { emoji : React.SFC<React.SVGProps<SVGSVGElement>> , name : string }
 ) : ReactElement => {
   const Emoji = item.emoji;
   return (
