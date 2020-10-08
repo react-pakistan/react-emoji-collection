@@ -58,7 +58,7 @@
     "@babel/preset-env": "^7.11.5",
     "@babel/preset-react": "^7.10.4",
     "@react-pakistan/eslint-config-shared": "^1.0.1",
-    "@react-pakistan/util-functions": "^1.0.0",
+    "@react-pakistan/util-functions": "^1.0.3",
     "@storybook/addon-a11y": "^6.0.26",
     "@storybook/addon-actions": "^6.0.26",
     "@storybook/addon-backgrounds": "^6.0.26",
