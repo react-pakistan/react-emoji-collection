@@ -25,8 +25,6 @@
 
 React Pakistan is an OpenSource & Free Software (FOSS) platform, creating React software solutions for the global community.
 
-![](https://github.com/actions/react-emoji-collection/workflows/github-ci/badge.svg?event=push)
-
 # React Emoji Collection
 
 <div>
@@ -52,41 +50,7 @@ React Pakistan is an OpenSource & Free Software (FOSS) platform, creating React 
   </a>
 </div>
 
-A generic, Emoji library for React web apps, following modern approach by building your project's UI in isolation using state of the art Storybook along with React.
-
-## Install
-
-Add React Emoji Collection to your project. 
-
-`yarn add @react-pakistan/react-emoji-collection` or
-`npm install @react-pakistan/react-emoji-collection`
-
-### **Styles**
-
-Styled Components are employed to maintain and update theme for this project. Please consider adding Styled Component Provider wrapper to the entry point of your application, following is the sample code.
-You could either use the default theme as shown below or wire your custom theme object instead. See <a href="/docs/styleguide-typography--typography-story">Typography</a> & <a href="/docs/styleguide-colors--colors-story">Colors</a> being used in the theme object.
-
-```javascript
-  import { ThemeProvider } from 'styled-components';
-  import { theme } from '@react-pakistan/util-functions';
-
-  <ThemeProvider theme={theme}>
-    <App />
-  </ThemeProvider>
-```
-
-### **Use**
-
-- [Hands1](https://taimoormk.github.io/react-emoji-collection/?path=/story/peoplebody-hands--hands)
-```javascript
-  import { Hands1 } from '@react-pakistan/react-emoji-collection/people-body/hands';
-
-  <Hands1
-    fontSize="32px"
-  />
-```
-
-# Other Libraries from ReactPakistan
+### **Other Libraries from ReactPakistan**
 
 <div>
   <a
@@ -110,6 +74,7 @@ You could either use the default theme as shown below or wire your custom theme 
     />
   </a>
 </div>
+
 <div>
   <a
     href="https://taimoormk.github.io/react-ui-collection"
@@ -132,6 +97,7 @@ You could either use the default theme as shown below or wire your custom theme 
     />
   </a>
 </div>
+
 <div>
   <a
     href="https://taimoormk.github.io/react-icon-collection"
@@ -154,28 +120,71 @@ You could either use the default theme as shown below or wire your custom theme 
     />
   </a>
 </div>
+
 <div>
   <a
-    href="https://taimoormk.github.io/react-emoji-collection"
+    href="https://taimoormk.github.io/react-logo-collection"
     target="_blank"
   >
     <img
-      alt="React Pakistan - React Emoji Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1592815676/GitHub/react-emoji-collection.jpg"
+      alt="React Pakistan - React Logo Collection"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1567499957/GitHub/react-logo-collection.jpg"
       width="70%"
     />
   </a>
   <a
-    href="https://www.npmjs.com/package/@react-pakistan/react-emoji-collection"
+    href="https://www.npmjs.com/package/@react-pakistan/react-logo-collection"
     target="_blank"
   >
     <img
-      alt="React Pakistan - React Icon Collection - NPM Package"
+      alt="React Pakistan - React Logo Collection - NPM Package"
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
       width="20%"
     />
   </a>
 </div>
+
+A generic, Emoji library for React web apps, following modern approach by building your project's UI in isolation using state of the art Storybook along with React.
+
+## Install
+
+Add React Emoji Collection to your project. 
+
+```
+  yarn add @react-pakistan/react-emoji-collection
+```
+OR
+```
+  npm install @react-pakistan/react-emoji-collection
+```
+
+Add React Emoji Collection base theme to your project.
+
+```console
+  yarn add @react-pakistan/util-functions
+```
+OR
+```console
+  npm install @react-pakistan/util-functions
+```
+
+### **Styles**
+
+Styled Components are employed to maintain and update theme for this project. Please consider adding Styled Component Provider wrapper to the entry point of your application, following is the sample code.
+You could either use the default theme as shown below or wire your custom theme object instead.
+
+```javascript
+  import { ThemeProvider } from 'styled-components';
+  import { theme } from '@react-pakistan/util-functions';
+
+  <ThemeProvider theme={theme}>
+    <App />
+  </ThemeProvider>
+```
+
+### **Use**
+
+Refer to [React Pakistan Docs](https://react-pakistan.github.io/react-pakistan-docs) for detail usage docs.
 
 ## Buy me a coffee
 <div>

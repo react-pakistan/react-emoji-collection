@@ -1,6 +1,6 @@
 {
   "name": "@react-pakistan/react-emoji-collection",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "React Emoji Collection built upon React StoryBook",
   "module": "lib/index.js",
   "main": "lib/index.js",
@@ -19,15 +19,12 @@
     "lint:css": "stylelint './src/**/*.tsx'",
     "lint:staged": "lint-staged",
     "lint:ts": "eslint --config eslint.config.js",
-    "publish:github": "cd lib/ && npm publish && cd ..",
-    "publish:npm": "cd lib/ && npm publish --access public && cd ..",
+    "publish:github": "yarn build && cd lib/ && npm publish && cd ..",
+    "publish:npm": "yarn build && cd lib/ && npm publish --access public && cd ..",
     "screenshot": "npx storycap http://localhost:9001",
     "start": "start-storybook -p 9001 -c .storybook",
     "test": "jest --coverage --config jest/config.json --passWithNoTests",
     "upgrade": "ncu -u"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
     "type": "git",
