@@ -1531,6 +1531,11 @@
     eslint-plugin-react-hooks "^4.1.2"
     typescript "^4.0.3"
 
+"@react-pakistan/react-logo-collection@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/react-logo-collection/-/react-logo-collection-2.0.0.tgz#3377f597094c8623ae35667f231fbd5d24c78f26"
+  integrity sha512-3jXXyYvh8jP0zqHYYPMQT1c75abOKFujWJF5VxHO0xwukAXQ+YxDzYX+e8giX6EuzGqs2KXVBNcBpUAk11jUfA==
+
 "@react-pakistan/util-functions@^1.0.7":
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/@react-pakistan/util-functions/-/util-functions-1.0.7.tgz#84e2640aece5575f159876baee3061053436490e"
@@ -2493,11 +2498,6 @@
   version "1.0.8"
   resolved "https://npm.pkg.github.com/download/@taimoormk/react-icon-collection/1.0.8/1f4ef501c175318e4f197cd4a1ab11fefde2cd4dbd568a3dd0af26321f836ee2#ea87eee6118e637d0c4281b54901d4de86b0b2d8"
   integrity sha512-hTArIvBrM2NJjHFszA2d+ku0nZirUg8wpvtS7NRA4OsBugmoz03ofWqNgnM8Z/xmWcwCX/nCMnV8oRt9LX68eQ==
-
-"@taimoormk/react-logo-collection@^1.0.8":
-  version "1.0.8"
-  resolved "https://npm.pkg.github.com/download/@taimoormk/react-logo-collection/1.0.8/e3c3ae5d806eadacae0ccab4d0c99ada5279e86d70ab04c6f5da573a0409cbad#d9d0195184aca571b6ba596bf700b49da10d135d"
-  integrity sha512-0N7K+wC0/ySLevMSSeUrMnZyo19v82kRMOMBPz/rzsILmMso1nWurkFY4VdBchToF6ojhzPLjiHBiOI/FSugkQ==
 
 "@types/anymatch@*":
   version "1.3.1"
