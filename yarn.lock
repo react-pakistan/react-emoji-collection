@@ -1531,10 +1531,10 @@
     eslint-plugin-react-hooks "^4.1.2"
     typescript "^4.0.3"
 
-"@react-pakistan/util-functions@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@react-pakistan/util-functions/-/util-functions-1.0.6.tgz#55375ee40b57f4d8f59e01c6d53de9e7a084fc04"
-  integrity sha512-upsqlvaEtPRoYSEE9H+hA0KewdOf2ub6rZb2Hk0Y5UIS5XG6g0UTn9w6y2DXvdzNI1QDyO8PU87GCsX3wckU5A==
+"@react-pakistan/util-functions@^1.0.7":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/util-functions/-/util-functions-1.0.7.tgz#84e2640aece5575f159876baee3061053436490e"
+  integrity sha512-mRUu+Bi7tGuZkHMkGUHNUg9uI3h+8UN/WdvrQLfp2gKJedLvhR5qP10KmqGv/kABeFBpGW3PgxxTTAuufTfqCg==
   dependencies:
     "@microsoft/tsdoc" "^0.12.21"
 
