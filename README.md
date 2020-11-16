@@ -25,7 +25,7 @@
 
 React Pakistan is an OpenSource & Free Software (FOSS) platform, creating React software solutions for the global community. ⭐⭐⭐
 
-## 📌 React Icon Collection ✌
+## 📌 React Emoji Collection ✌
 
 <div>
   <a
