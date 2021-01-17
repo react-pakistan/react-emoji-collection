@@ -30,7 +30,7 @@
     "start": "start-storybook -p 9001 -c .storybook",
     "storybook:ghpages": "storybook-to-ghpages",
     "test": "jest --coverage --config jest/config.json --passWithNoTests",
-    "upgrade": "ncu -u -x webpack"
+    "upgrade": "ncu -u"
   },
   "repository": {
     "type": "git",
@@ -92,6 +92,7 @@
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^26.6.3",
     "babel-loader": "^8.2.2",
+    "browser-monads": "^1.0.0",
     "concurrently": "^5.3.0",
     "css-loader": "^5.0.1",
     "eslint": "^7.17.0",
