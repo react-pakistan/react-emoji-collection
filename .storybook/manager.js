@@ -5,6 +5,6 @@ import customTheme from './custom-theme';
 addons.setConfig({
   theme: {
     ...customTheme,
-    ...themes.dark
+    ...themes.dark,
   },
 });
