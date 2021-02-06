@@ -4,8 +4,8 @@ module.exports = {
     '../src/**/*.story.@(js|jsx|ts|tsx)',
   ],
   addons: [
-    '@storybook/addon-links',
     '@storybook/addon-essentials',
     '@storybook/addon-google-analytics',
+    '@storybook/addon-links',
   ],
 };
