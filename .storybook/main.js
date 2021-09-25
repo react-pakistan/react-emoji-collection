@@ -7,5 +7,6 @@ module.exports = {
     '@storybook/addon-essentials',
     '@storybook/addon-google-analytics',
     '@storybook/addon-links',
+    '@storybook/addon-postcss',
   ],
 };
