@@ -20,7 +20,7 @@
     "lint": "yarn lint:ts && yarn lint:css",
     "lint:css": "stylelint './src/**/*.tsx'",
     "lint:staged": "lint-staged",
-    "lint:ts": "eslint --config .eslintrc .",
+    "lint:ts": "eslint --config .eslintrc . --no-error-on-unmatched-pattern",
     "major": "npm version major",
     "minor": "npm version minor",
     "patch": "npm version patch",
