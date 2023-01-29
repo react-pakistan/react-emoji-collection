@@ -1,6 +1,6 @@
 {
   "name": "@react-pakistan/react-emoji-collection",
-  "version": "2.3.34",
+  "version": "2.3.35",
   "description": "React Emoji Collection built upon React StoryBook",
   "module": "lib/index.js",
   "main": "lib/index.js",
